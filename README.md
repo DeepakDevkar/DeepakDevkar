@@ -4,11 +4,9 @@
 # 👋 Hi, I’m @DeepakDevkar
 
 
-# Portfolio Site Live At 
+ Portfolio Site Live At 
 
 https://deepakdevkar.netlify.app/
-
-
 
 - 👑 king of all 
 - 👀 I’m interested in ...
